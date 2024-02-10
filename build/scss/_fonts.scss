@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?3u34z8');
+  src:  url('../fonts/icomoon.eot?3u34z8#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?3u34z8') format('truetype'),
+    url('../fonts/icomoon.woff?3u34z8') format('woff'),
+    url('../fonts/icomoon.svg?3u34z8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Globe:before {
+  content: "\e900";
+  color: #f60d04;
+}
+.icon-location-1-1:before {
+  content: "\e901";
+  color: #f60d04;
+}
+.icon-Mail:before {
+  content: "\e902";
+  color: #f60d04;
+}
+.icon-Person:before {
+  content: "\e903";
+  color: #f60d04;
+}
+.icon-Search:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-Shield-Checkmark:before {
+  content: "\e905";
+}
+.icon-Arrow-Repeat-All:before {
+  content: "\e906";
+}
+.icon-Box-Checkmark:before {
+  content: "\e907";
+}
+.icon-Call:before {
+  content: "\e908";
+  color: #f60d04;
+}
+.icon-Cart:before {
+  content: "\e909";
+}
+.icon-Arrow-Right:before {
+  content: "\e90b";
+  color: #f60d04;
+}
+.icon-Arrow-left:before {
+  content: "\e90a";
+  color: #f60d04;
+}

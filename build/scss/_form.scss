@@ -1,0 +1,13 @@
+::-ms-input-placeholder { /* Edge 12-18 */
+    color: $gray-400;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 14px;
+  }
+  
+  ::placeholder {
+    color: $gray-400;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 14px;
+  }
